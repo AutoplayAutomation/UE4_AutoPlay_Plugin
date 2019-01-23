@@ -1,6 +1,8 @@
 # Getting Started!
 
-Let's try to build first game with plugin enabled.
+Contact: autoplay.automation@gmail.com
+
+Let's try to build first game with plugin enabled (Current version works only on mobile devices (Android, iOS)).
 
  - Download AutoPlay Plugin for you Unreal Engine version. [Link](https://github.com/AutoplayAutomation/UE4_AutoPlay_Plugin/tree/master/Plugin)
  - Place Plugin to Engine/Plugins Folder "*/[UE4 Root]/Engine/Plugins/AutoPlay/*". Precompiled plugin works only like engine plugin.
