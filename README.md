@@ -2,6 +2,8 @@
 
 Contact: autoplay.automation@gmail.com
 
+https://www.youtube.com/watch?v=YS8msXrFwZA
+
 Let's try to build first game with plugin enabled (Current version works only on mobile devices (Android, iOS)).
 
  - Download AutoPlay Plugin for you Unreal Engine version. [Link](https://github.com/AutoplayAutomation/UE4_AutoPlay_Plugin/tree/master/Plugin)
