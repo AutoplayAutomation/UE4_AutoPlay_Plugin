@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "AutoPlay",
+	"Description": "Automation plugin",
+	"Category": "Automation",
+	"CreatedBy": "onio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.20.0",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"IOS",
+		"Android"
+	],
+	"Modules": [
+		{
+			"Name": "AutoPlay",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"IOS",
+				"Android"
+			]
+		}
+	]
+}
