@@ -16,9 +16,12 @@ Let's try to build first game with plugin enabled (Current version works only on
  ![Activate plugin](https://github.com/AutoplayAutomation/UE4_AutoPlay_Plugin/blob/master/Documentation/images/plugin.png)
  - Plugin works only with **DEVELOPMENT** build, be care about this. Go to  Edit->Project Settings->Project->Packaging->Build Configuration and select Development
  ![set build to Development](https://github.com/AutoplayAutomation/UE4_AutoPlay_Plugin/blob/master/Documentation/images/development.png)
- - Configure Android SDK, iOS provisioning, etc
+ - Configure Android SDK(don't forget to confirm license, google play), iOS provisioning, etc
  - Now Package your game.
 
 Finally after start game you should see AutoPlay logo. Enjoy! 
 
 ![enter image description here](https://github.com/AutoplayAutomation/UE4_AutoPlay_Plugin/blob/master/Documentation/images/logo.png)
+
+Problems:
+If you see message "***Plugin "AutoPlay" failed to load ....*** " you need use Unreal Engine built from source not binary (installed from launcher). I faced that problem only on 4.21.1, hope it will be fixed in 4.21.2. But for now only way to use built UE editor from source. 
